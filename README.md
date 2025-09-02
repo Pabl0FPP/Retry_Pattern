@@ -66,7 +66,7 @@ Para probar la resiliencia:
 
 En el video de demostración se ve cómo el ClientService gestiona los errores y finalmente obtiene una respuesta correcta.
 
-https://www.youtube.com/watch?v=yxjcJZmN7Xk
+https://youtu.be/Y1ZrEzAQa6c
 
 
 ---
